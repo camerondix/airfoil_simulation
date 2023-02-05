@@ -1,7 +1,7 @@
 # Airfoil Simulation
 
 See a newer web implementation at [camerondix.com](https://camerondix.com/airfoils).\
-For an explanation, read [explanation.pdf](https://github.com/camerondix/airfoils/blob/main/explanation.pdf).\
+For an explanation, read [explanation.pdf](https://github.com/camerondix/airfoils/blob/main/explanation.pdf).
 
 ## Source Panel Method
 
